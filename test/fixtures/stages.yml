@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  proof: one
+  parent_id: 1
+
+two:
+  proof: two
+  parent_id: 1

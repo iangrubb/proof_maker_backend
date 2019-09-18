@@ -1,0 +1,2 @@
+class ProofsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class SubproofsController < ApplicationController
+end
