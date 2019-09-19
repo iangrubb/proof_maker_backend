@@ -12,7 +12,7 @@ class Stage < ApplicationRecord
 
   def number
     if self.parent
-      self.parent + 1
+      self.parent.number + 1
     else
       1
     end
